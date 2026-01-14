@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "@turf/turf": "^7.3.2",
     "amazon-textract-response-parser": "^0.4.1",
-    "axios": "^1.7.2"
+    "axios": "^1.7.2",
+    "rbush": "^4.0.1"
   },
   "devDependencies": {
     "webpack": "^5.92.0",
